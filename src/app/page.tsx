@@ -78,6 +78,7 @@ export default function LandingPage() {
             { id: "hat-5", name: "Ghost Lane Trucker", price: "$95", variant: "Matte Black", imageSrc: "http://img.b2bpic.net/free-vector/hand-drawn-cobra-logo_52683-78697.jpg", imageAlt: "apex predator hat snake design" },
             { id: "hat-6", name: "Midnight Run Cap", price: "$75", variant: "Dark Grey", imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-sunglasses-leaning-cabriolet-car-door-while-dreamily-looking-camera-with-airport-background_574295-3239.jpg", imageAlt: "midnight run hat coordinates embroidery" }
           ]}
+          buttons={[{ text: "Shop All Headwear", href: "#products" }]}
           useInvertedBackground={false}
         />
       </div>

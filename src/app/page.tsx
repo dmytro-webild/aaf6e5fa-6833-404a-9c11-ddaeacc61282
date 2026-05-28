@@ -61,7 +61,6 @@ export default function LandingPage() {
             { imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-close-up-hard-light_1321-498.jpg", imageAlt: "Luxury car in a dark, cinematic garage" }
           ]}
           mediaAnimation="opacity"
-          useInvertedBackground={false}
         />
       </div>
       <div id="products" data-section="products">
